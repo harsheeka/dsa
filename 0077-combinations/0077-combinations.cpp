@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void res(vector<vector<int>> &result, vector<int> temp, int index, int &n, int &k){
+    void res(vector<vector<int>> &result, vector<int> &temp, int index, int &n, int &k){
         if(temp.size()==k){
             result.push_back(temp);
             return;
