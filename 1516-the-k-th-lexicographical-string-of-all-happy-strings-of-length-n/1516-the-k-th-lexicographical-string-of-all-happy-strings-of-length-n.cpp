@@ -1,28 +1,19 @@
 class Solution {
 public:
-    void res(vector<string> &result,string temp, int &n, int len){
+    void res(vector<string> &result,string temp, int &n){
         if(temp.length()==n){
             result.push_back(temp);
             return;
         }
-        if(temp[len-1]=='a'){
-            res(result,temp+"b",n,len+1);
-            res(result,temp+"c",n,len+1);
-        }
-        else if(temp[len-1]=='b'){
-            res(result,temp+"a",n,len+1);
-            res(result,temp+"c",n,len+1);
-        }
-        else if(temp[len-1]=='c'){
-            res(result,temp+"a",n,len+1);
-            res(result,temp+"b",n,len+1);
+        for(char ch : {'a','b','c'}){
+            if(temp.empty()|| temp.back()!=ch){
+                res(result,temp+ch,n);
+            }
         }
     }
     string getHappyString(int n, int k) {
         vector<string> result;
-        res(result,"a",n,1);
-        res(result,"b",n,1);
-        res(result,"c",n,1);
+        res(result,"",n);
         if(k>result.size()) return "";
         return result[k-1];
     }
