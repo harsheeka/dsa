@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsheeka/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/harsheeka/dsa/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
