@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harsheeka/dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harsheeka/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/harsheeka/dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/harsheeka/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/harsheeka/dsa/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/harsheeka/dsa/tree/master/0093-restore-ip-addresses) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/harsheeka/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/harsheeka/dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/harsheeka/dsa/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/harsheeka/dsa/tree/master/1212-sequential-digits) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
