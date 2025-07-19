@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsheeka/dsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/harsheeka/dsa/tree/master/0131-palindrome-partitioning) |
+| [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/harsheeka/dsa/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/harsheeka/dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harsheeka/dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Array
@@ -40,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harsheeka/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harsheeka/dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harsheeka/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harsheeka/dsa/tree/master/0090-subsets-ii) |
+| [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
