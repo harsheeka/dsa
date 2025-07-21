@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsheeka/dsa/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/harsheeka/dsa/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/harsheeka/dsa/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 ## Backtracking
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harsheeka/dsa/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harsheeka/dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
