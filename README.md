@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/harsheeka/dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harsheeka/dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Array
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harsheeka/dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harsheeka/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harsheeka/dsa/tree/master/0090-subsets-ii) |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harsheeka/dsa/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
