@@ -12,7 +12,7 @@ public:
         }
         return true;
     }
-    void res(vector<vector<string>> &result, vector<string> temp , int row, int &n){
+    void res(vector<vector<string>> &result, vector<string> &temp , int row, int &n){
         if(row==n){
             result.push_back(temp);
             return;
