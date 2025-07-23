@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsheeka/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harsheeka/dsa/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harsheeka/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/harsheeka/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsheeka/dsa/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harsheeka/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/harsheeka/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harsheeka/dsa/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsheeka/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
 ## Enumeration
 |  |
@@ -90,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
