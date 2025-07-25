@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harsheeka/dsa/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/harsheeka/dsa/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harsheeka/dsa/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harsheeka/dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harsheeka/dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
