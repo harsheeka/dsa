@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/harsheeka/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harsheeka/dsa/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/harsheeka/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/harsheeka/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harsheeka/dsa/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harsheeka/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/harsheeka/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/harsheeka/dsa/tree/master/0079-word-search) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harsheeka/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsheeka/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harsheeka/dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/harsheeka/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harsheeka/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harsheeka/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsheeka/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
