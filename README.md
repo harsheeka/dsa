@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
 | [0275-h-index-ii](https://github.com/harsheeka/dsa/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harsheeka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/harsheeka/dsa/tree/master/0792-binary-search) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Counting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/harsheeka/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/harsheeka/dsa/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Depth-First Search
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsheeka/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/harsheeka/dsa/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/harsheeka/dsa/tree/master/0278-first-bad-version) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harsheeka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/harsheeka/dsa/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsheeka/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
 |  |
