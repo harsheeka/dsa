@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1185-find-in-mountain-array](https://github.com/harsheeka/dsa/tree/master/1185-find-in-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsheeka/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Enumeration
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
