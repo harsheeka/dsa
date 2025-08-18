@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/harsheeka/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1185-find-in-mountain-array](https://github.com/harsheeka/dsa/tree/master/1185-find-in-mountain-array) |
+| [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Bit Manipulation
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
+| [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Enumeration
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/harsheeka/dsa/tree/master/1014-k-closest-points-to-origin) |
+| [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/harsheeka/dsa/tree/master/0179-largest-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
