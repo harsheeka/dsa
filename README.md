@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/harsheeka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/harsheeka/dsa/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsheeka/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/harsheeka/dsa/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/harsheeka/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1185-find-in-mountain-array](https://github.com/harsheeka/dsa/tree/master/1185-find-in-mountain-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
+| [0883-car-fleet](https://github.com/harsheeka/dsa/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/harsheeka/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -206,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
+## Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/harsheeka/dsa/tree/master/0883-car-fleet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/harsheeka/dsa/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
