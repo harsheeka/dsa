@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harsheeka/dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Bit Manipulation
 |  |
 | ------- |
