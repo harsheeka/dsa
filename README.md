@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
 | [0275-h-index-ii](https://github.com/harsheeka/dsa/tree/master/0275-h-index-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harsheeka/dsa/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsheeka/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
+| [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/harsheeka/dsa/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/harsheeka/dsa/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsheeka/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/harsheeka/dsa/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/harsheeka/dsa/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harsheeka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/harsheeka/dsa/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsheeka/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Heap (Priority Queue)
 |  |
