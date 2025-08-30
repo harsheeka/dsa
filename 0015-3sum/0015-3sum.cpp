@@ -2,11 +2,11 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> ans;
-        sort(nums.begin(), nums.end()); // ✅ sort first
+        sort(nums.begin(), nums.end());
         int n = nums.size();
 
         for (int i = 0; i < n; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue; // skip duplicate first elements
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             int sum = -nums[i];
             int x = i + 1, y = n - 1;
