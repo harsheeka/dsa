@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/harsheeka/dsa/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsheeka/dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/harsheeka/dsa/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/harsheeka/dsa/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/harsheeka/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1185-find-in-mountain-array](https://github.com/harsheeka/dsa/tree/master/1185-find-in-mountain-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
 | [0883-car-fleet](https://github.com/harsheeka/dsa/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/harsheeka/dsa/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/harsheeka/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsheeka/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0917-boats-to-save-people](https://github.com/harsheeka/dsa/tree/master/0917-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harsheeka/dsa/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/harsheeka/dsa/tree/master/0179-largest-number) |
+| [0917-boats-to-save-people](https://github.com/harsheeka/dsa/tree/master/0917-boats-to-save-people) |
 ## Counting Sort
 |  |
 | ------- |
