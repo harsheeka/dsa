@@ -6,14 +6,10 @@ public:
         while(i<j){
             int sum = people[i]+people[j];
             if(sum<=limit){
-                count++;
                 i++;
-                j--;
             }
-            else{
-              count++;
-              j--;  
-            }
+            count++;
+            j--;
         }
         return i==j ? count+1: count;
     }
