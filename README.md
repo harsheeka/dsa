@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harsheeka/dsa/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -260,4 +261,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsheeka/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/harsheeka/dsa/tree/master/0076-minimum-window-substring) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
