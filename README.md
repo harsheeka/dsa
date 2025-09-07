@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/harsheeka/dsa/tree/master/0404-sum-of-left-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/harsheeka/dsa/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/harsheeka/dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/harsheeka/dsa/tree/master/0404-sum-of-left-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/harsheeka/dsa/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/harsheeka/dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/harsheeka/dsa/tree/master/0404-sum-of-left-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/harsheeka/dsa/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/harsheeka/dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/harsheeka/dsa/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/harsheeka/dsa/tree/master/0404-sum-of-left-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/harsheeka/dsa/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/harsheeka/dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
