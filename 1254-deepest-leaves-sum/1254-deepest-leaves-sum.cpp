@@ -11,16 +11,15 @@
  */
 class Solution {
 public:
-    int help(TreeNode* root){
-        if(!root) return 0;
-        if(!root->left && !root->right) return 1;
-        return 1 + max(help(root->left), help(root->right));
-    }
-    void s(TreeNode* root, int max,int level,int &sum){
+    void s(TreeNode* root, int& max,int level,int &sum){
         if(!root) return;
         if(!root->left && !root->right){
             if(level==max){
                 sum+=root->val;
+            }
+            else if(level>max){
+                max= level;
+                sum= root->val;
             }
             return;
         }
@@ -29,9 +28,8 @@ public:
     }
     int deepestLeavesSum(TreeNode* root) {
         if(!root) return 0;
-        int m = help(root);
-        int sum=0;
-        s(root,m,1,sum);
+        int sum=0,max=1;
+        s(root,max,1,sum);
         return sum;
 
     }
