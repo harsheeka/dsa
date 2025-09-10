@@ -1,31 +1,21 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-       vector<int> vec(2);
-       map<int,int> m;
-
-
-       for(int i=0;i<nums.size();i++){
-        if(m.find(nums[i])!=m.end()){
-            m[nums[i]+1000000000]=i;
+        sort(nums.begin(),nums.end());
+        int i=0,j=nums.size()-1;
+        vector<int>ans;
+        while(i<j){
+            int sum = nums[i]+nums[j];
+            if(sum==target){
+                ans.push_back(i);
+                ans.push_back(j);
+                return ans;
+            }
+            else if(sum>target){
+                j--;
+            }
+            else i++;
         }
-        else m[nums[i]]=i;
-       }
-       
-       for(int i=0;i<nums.size();i++){
-        vec[0]=m[nums[i]];
-        if(nums[i]*2 == target && m.find(nums[i]+1000000000)!= m.end()){
-            vec[1]= m[nums[i]+1000000000];
-            break;
-
-        }
-        else if(m.find(target-nums[i])!= m.end() && target-nums[i]!= nums[i]){
-              vec[1]=m[target-nums[i]];
-              break;
-              }
-       }
-   
-
-       return vec;
+        return ans;
     }
 };
