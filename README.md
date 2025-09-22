@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/harsheeka/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harsheeka/dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Bit Manipulation
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harsheeka/dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harsheeka/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/harsheeka/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harsheeka/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/harsheeka/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harsheeka/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bitmask
 |  |
