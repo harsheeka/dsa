@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/harsheeka/dsa/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/harsheeka/dsa/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/harsheeka/dsa/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/harsheeka/dsa/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/harsheeka/dsa/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/harsheeka/dsa/tree/master/0257-binary-tree-paths) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harsheeka/dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harsheeka/dsa/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harsheeka/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0165-compare-version-numbers](https://github.com/harsheeka/dsa/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsheeka/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
