@@ -10,12 +10,13 @@ public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         int n = mat.size(), m = mat[0].size();
         queue<Cell> q;
-        vector<vector<int>> vis(n, vector<int>(m,0));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
                     q.push({i,j,0});
-                    vis[i][j]=1;
+                }
+                if(mat[i][j]==1){
+                    mat[i][j]=-1;
                 }
             }
         }
@@ -29,9 +30,8 @@ public:
                 int nr = x.row + moves[i].first;
                 int nc = x.col + moves[i].second;
 
-                if(isValid(nr,nc,n,m) && !vis[nr][nc]){
+                if(isValid(nr,nc,n,m) && mat[nr][nc]==-1){
                 q.push({nr,nc,x.dist+1});
-                vis[nr][nc]=1;
                 mat[nr][nc]=x.dist +1;
             }
             }
