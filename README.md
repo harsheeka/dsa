@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/harsheeka/dsa/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/harsheeka/dsa/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/harsheeka/dsa/tree/master/0257-binary-tree-paths) |
+| [0433-minimum-genetic-mutation](https://github.com/harsheeka/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harsheeka/dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harsheeka/dsa/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/harsheeka/dsa/tree/master/0127-word-ladder) |
 | [0349-intersection-of-two-arrays](https://github.com/harsheeka/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0433-minimum-genetic-mutation](https://github.com/harsheeka/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harsheeka/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/harsheeka/dsa/tree/master/0807-custom-sort-string) |
 | [1160-letter-tile-possibilities](https://github.com/harsheeka/dsa/tree/master/1160-letter-tile-possibilities) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/harsheeka/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/harsheeka/dsa/tree/master/0127-word-ladder) |
 | [0404-sum-of-left-leaves](https://github.com/harsheeka/dsa/tree/master/0404-sum-of-left-leaves) |
+| [0433-minimum-genetic-mutation](https://github.com/harsheeka/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/harsheeka/dsa/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/harsheeka/dsa/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/harsheeka/dsa/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
