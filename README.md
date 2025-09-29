@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/harsheeka/dsa/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/harsheeka/dsa/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harsheeka/dsa/tree/master/0542-01-matrix) |
+| [1117-as-far-from-land-as-possible](https://github.com/harsheeka/dsa/tree/master/1117-as-far-from-land-as-possible) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/harsheeka/dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/harsheeka/dsa/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/harsheeka/dsa/tree/master/1117-as-far-from-land-as-possible) |
 | [1185-find-in-mountain-array](https://github.com/harsheeka/dsa/tree/master/1185-find-in-mountain-array) |
 | [1217-relative-sort-array](https://github.com/harsheeka/dsa/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harsheeka/dsa/tree/master/0542-01-matrix) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/harsheeka/dsa/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/harsheeka/dsa/tree/master/1117-as-far-from-land-as-possible) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harsheeka/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Depth-First Search
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/harsheeka/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/harsheeka/dsa/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/harsheeka/dsa/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/harsheeka/dsa/tree/master/1117-as-far-from-land-as-possible) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/harsheeka/dsa/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/harsheeka/dsa/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/harsheeka/dsa/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
