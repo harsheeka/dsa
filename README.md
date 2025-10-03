@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harsheeka/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsheeka/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/harsheeka/dsa/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/harsheeka/dsa/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harsheeka/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harsheeka/dsa/tree/master/0216-combination-sum-iii) |
 | [0275-h-index-ii](https://github.com/harsheeka/dsa/tree/master/0275-h-index-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/harsheeka/dsa/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/harsheeka/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/harsheeka/dsa/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/harsheeka/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harsheeka/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/harsheeka/dsa/tree/master/0542-01-matrix) |
 | [1022-unique-paths-iii](https://github.com/harsheeka/dsa/tree/master/1022-unique-paths-iii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsheeka/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harsheeka/dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harsheeka/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/harsheeka/dsa/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/harsheeka/dsa/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/harsheeka/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/harsheeka/dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsheeka/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harsheeka/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/harsheeka/dsa/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/harsheeka/dsa/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/harsheeka/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/harsheeka/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/harsheeka/dsa/tree/master/0542-01-matrix) |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/harsheeka/dsa/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/harsheeka/dsa/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/harsheeka/dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harsheeka/dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
